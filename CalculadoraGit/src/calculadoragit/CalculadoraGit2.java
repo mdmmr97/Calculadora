@@ -7,7 +7,7 @@ package calculadoragit;
 
 /**
  *
- * @author redes 32
+ * @author redes 2
  */
 public class CalculadoraGit2 {
     private int num1;
